@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Edin 👋
 
-<!--
-**ediiin/ediiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student (entering 3rd year)
+💻 Passionate about backend and desktop application development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+• C++
+• C#
+• HTML
+• CSS
+• JavaScript
+• SQL
+• .NET / WPF
